@@ -40,18 +40,12 @@ The dataset contains tire parameters such as:
 - Ensemble models (Random Forest) provide better accuracy
 - Feature importance highlights key influencing parameters
 
----
-
 ## Requirements
-Data form the tire
-pandas  
-numpy  
-scikit-learn  
-matplotlib  
-seaborn  
----
 
-## Author
-Vishakh Nagaraj
-Master’s in Commercial Vehicle Technology
-RPTU Kaiserslautern
+- pandas  
+- numpy  
+- scikit-learn  
+- matplotlib  
+- seaborn  
+- xgboost
+
