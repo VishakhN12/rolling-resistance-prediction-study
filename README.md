@@ -47,5 +47,4 @@ The dataset contains tire parameters such as:
 - scikit-learn  
 - matplotlib  
 - seaborn  
-- xgboost
 
